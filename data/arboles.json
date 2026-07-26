@@ -1,0 +1,369 @@
+[
+    {
+        "id": "roble-sedoso",
+        "nombre": "Roble sedoso",
+        "cientifico": "Grevillea robusta",
+        "tipo": "Exótica",
+        "origen": "Australia",
+        "altura": "20–30 m",
+        "follaje": "Perenne",
+        "floracion": "Primavera y verano",
+        "familia": "Proteáceas",
+        "fotos": [
+            "assets/img/arboles/roble-sedoso-1.webp",
+            "assets/img/arboles/roble-sedoso-2.webp",
+            "assets/img/arboles/roble-sedoso-3.webp"
+        ],
+        "informacionPrincipal": "Árbol perenne de gran porte y copa alargada, originario de Australia e introducido en América Latina a fines del siglo XIX.",
+        "descripcion": "Puede alcanzar entre 20 y 30 metros de altura. Sus hojas son grandes, persistentes y de lámina muy dividida; presentan color verde oscuro en la cara superior y más claro en la inferior.",
+        "floresYFrutos": "Sus flores anaranjadas se agrupan en racimos unilaterales en los extremos de ramitas laterales y carecen de pétalos. Proporcionan abundante néctar a abejas, mariposas y aves. Florece en primavera y verano. El fruto es un folículo o cápsula asimétrica que contiene una o dos semillas aladas.",
+        "usos": "Tiene uso forestal y ornamental."
+    },
+    {
+        "id": "parasol-de-la-china",
+        "nombre": "Parasol de la China",
+        "cientifico": "Firmiana simplex",
+        "tipo": "Exótica",
+        "origen": "Sudeste de Asia, China y Japón",
+        "altura": "10–14 m",
+        "follaje": "Caduco",
+        "floracion": "Comienzo de la primavera",
+        "familia": "Esterculiáceas",
+        "fotos": [
+            "assets/img/arboles/parasol-de-la-china-1.webp"
+        ],
+        "informacionPrincipal": "Especie exótica del sudeste de Asia, China y Japón, propia de climas cálido-templados y húmedos.",
+        "descripcion": "Desarrolla una copa redondeada y alcanza entre 10 y 14 metros de altura. Su follaje es caduco, con hojas grandes, alternas y palmadas de color verde profundo. Crece tanto a pleno sol como en semisombra y se adapta a diversos suelos siempre que estén bien drenados.",
+        "floresYFrutos": "Las flores, hermafroditas, forman panículas de tonos blancos a amarillo verdoso y aparecen al comienzo de la primavera. El fruto está formado por carpelos foliáceos y separados.",
+        "usos": "Se cultiva principalmente como ornamental y su madera se utiliza en carpintería de objetos de adorno."
+    },
+    {
+        "id": "magnolia",
+        "nombre": "Magnolia",
+        "cientifico": "Magnolia grandiflora",
+        "tipo": "Exótica",
+        "origen": "Norteamérica",
+        "altura": "Hasta 24 m",
+        "follaje": "Perenne",
+        "floracion": "Primavera y verano",
+        "familia": "Magnoliáceas",
+        "fotos": [
+            "assets/img/arboles/magnolia-1.webp",
+            "assets/img/arboles/magnolia-2.webp"
+        ],
+        "informacionPrincipal": "Especie exótica originaria de Norteamérica, de gran porte y follaje persistente, apreciada por sus flores blancas y perfumadas.",
+        "descripcion": "Puede alcanzar unos 24 metros de altura. Sus hojas son perennes, anchas y brillantes, de color verde oscuro.",
+        "floresYFrutos": "Durante la primavera y el verano produce grandes flores blancas, solitarias, perfumadas y de seis pétalos. Sus frutos son ovoides y leñosos, de color marrón, con semillas rojo brillante.",
+        "usos": "Es una especie ornamental destacada por su porte elegante y el aroma penetrante de sus flores."
+    },
+    {
+        "id": "espinillo",
+        "nombre": "Espinillo",
+        "cientifico": "Acacia caven",
+        "tipo": "Nativa",
+        "origen": "Amplia distribución en Argentina",
+        "altura": "3–6 m",
+        "follaje": "Semipersistente",
+        "floracion": "Septiembre a noviembre",
+        "familia": "Leguminosas, mimosoideas",
+        "fotos": [
+            "assets/img/arboles/espinillo-1.webp",
+            "assets/img/arboles/espinillo-2.webp",
+            "assets/img/arboles/espinillo-3.webp"
+        ],
+        "informacionPrincipal": "También llamado aromo o aromito, es una especie nativa ampliamente distribuida en Argentina y presente en Entre Ríos.",
+        "descripcion": "Árbol espinoso de entre 3 y 6 metros de altura, con espinas de hasta 2 cm, abundantes ramas y follaje semipersistente que pierde durante el invierno. Sus hojas son bipinnaticompuestas, alternas o fasciculadas.",
+        "floresYFrutos": "Presenta pequeñas flores amarillo anaranjadas, muy perfumadas, reunidas en inflorescencias esféricas compactas. Florece de septiembre a noviembre. En diciembre forma vainas oscuras que viran a negro, con extremo punzante y numerosas semillas de color café.",
+        "historia": "El ejemplar del patio constituye un homenaje de los alumnos fraternales al Colegio, realizado en el Día del Árbol."
+    },
+    {
+        "id": "lapacho",
+        "nombre": "Lapacho",
+        "cientifico": "Handroanthus impetiginosus",
+        "tipo": "Nativa",
+        "origen": "Sur de Brasil, Paraguay, noreste argentino y noroeste uruguayo",
+        "altura": "Hasta 30 m",
+        "follaje": "Caduco",
+        "floracion": "Primavera",
+        "familia": "Bignoniáceas",
+        "fotos": [
+            "assets/img/arboles/lapacho-1.webp",
+            "assets/img/arboles/lapacho-2.webp",
+            "assets/img/arboles/lapacho-3.webp"
+        ],
+        "informacionPrincipal": "Árbol indígena originario del sur de Brasil, Paraguay, noreste argentino y noroeste uruguayo, reconocido por su espectacular floración rosada.",
+        "descripcion": "Puede alcanzar cerca de 30 metros. Su follaje es caduco, con hojas verde oscuro palmaticompuestas.",
+        "floresYFrutos": "Produce racimos de flores grandes y rosadas durante la primavera. La corola es acampanada, con garganta amarillenta, y se dispone en panojas. Sus frutos son cápsulas lineales con numerosas semillas chatas.",
+        "usos": "Su madera es valorada por su densidad, dureza y resistencia a la descomposición. Sus flores atraen abejas y colibríes.",
+        "historia": "Fue donado por el profesor Pablo Lorentz."
+    },
+    {
+        "id": "pino-parana",
+        "nombre": "Pino Paraná (Araucaria)",
+        "cientifico": "Araucaria angustifolia",
+        "tipo": "Nativa en Argentina",
+        "origen": "Sur de Brasil y Misiones",
+        "altura": "Hasta 40 m",
+        "follaje": "Perenne",
+        "floracion": "Conífera",
+        "familia": "Araucariáceas",
+        "fotos": [
+            "assets/img/arboles/pino-parana-1.webp"
+        ],
+        "informacionPrincipal": "Conífera de gran porte, natural del sur de Brasil y nativa de Misiones, donde posee un importante valor de conservación.",
+        "descripcion": "Puede alcanzar 40 metros de altura y 1,50 m de diámetro. La copa es piramidal cuando el árbol es joven y luego adopta una forma aparasolada. Sus hojas son alternas, sésiles, espiraladas y punzantes; la corteza es resinosa, persistente y muy fisurada.",
+        "floresYFrutos": "Las inflorescencias masculinas son alargadas y cilíndricas. Las estructuras femeninas contienen numerosas semillas comestibles, conocidas como piñones.",
+        "conservacion": "Se encuentra amenazado y fue declarado Monumento Natural Provincial en Misiones.",
+        "historia": "Este ejemplar fue obsequiado por Martín Doello Jurado el 28 de julio de 1943, en el Día del Árbol."
+    },
+    {
+        "id": "fenix",
+        "nombre": "Fénix",
+        "cientifico": "Phoenix canariensis",
+        "tipo": "Exótica",
+        "origen": "Islas Canarias",
+        "altura": "Más de 15 m",
+        "follaje": "Perenne",
+        "floracion": "Primavera",
+        "familia": "Palmáceas",
+        "fotos": [
+            "assets/img/arboles/fenix-1.webp"
+        ],
+        "informacionPrincipal": "Palmera introducida desde las Islas Canarias, de tronco único y una corona de hojas pinnadas muy frondosa.",
+        "descripcion": "Posee un tronco cilíndrico, recto y leñoso, marcado por cicatrices foliares. Supera los 15 metros de altura.",
+        "floresYFrutos": "Las inflorescencias son muy ramificadas y nacen entre las hojas, con flores de color crema. Sus frutos son globosos u ovoides, anaranjados y de aproximadamente 2 cm. Florece en primavera.",
+        "usos": "No tiene valor maderero y se utiliza principalmente con fines ornamentales."
+    },
+    {
+        "id": "palmera-pindo",
+        "nombre": "Palmera pindó",
+        "cientifico": "Arecastrum romanzoffianum",
+        "tipo": "Nativa",
+        "origen": "Brasil, Paraguay, Uruguay y noreste argentino",
+        "altura": "15–25 m",
+        "follaje": "Perenne",
+        "floracion": "Flores amarillas",
+        "familia": "Palmeras",
+        "fotos": [
+            "assets/img/arboles/palmera-pindo-1.webp"
+        ],
+        "informacionPrincipal": "Palmera nativa de Brasil, Paraguay, Uruguay y el noreste argentino, conocida también como coquito o dátil.",
+        "descripcion": "Alcanza entre 15 y 25 metros de altura. Tiene un tronco único, columnar y liso, con corteza gris y anillos más oscuros. Sus numerosas hojas pinnadas se concentran en el ápice y miden entre 2 y 4 metros.",
+        "floresYFrutos": "Sus flores amarillas y monoicas se reúnen en largos espádices. El fruto es una drupa amarillenta semejante a un dátil.",
+        "usos": "Es muy ornamental y se utiliza en jardinería y paisajismo.",
+        "historia": "Según los datos recopilados, su origen podría estar vinculado con un regalo realizado al General Urquiza junto con otras especies destinadas al Palacio."
+    },
+    {
+        "id": "cipres",
+        "nombre": "Ciprés",
+        "cientifico": "Cupressus arizonica",
+        "tipo": "Exótica",
+        "origen": "Sureste de América del Norte",
+        "altura": "Hasta 20 m",
+        "follaje": "Perenne",
+        "floracion": "Conos leñosos",
+        "familia": "Cupresáceas",
+        "fotos": [
+            "assets/img/arboles/cipres-1.webp",
+            "assets/img/arboles/cipres-2.webp"
+        ],
+        "informacionPrincipal": "Conífera originaria del sureste de América del Norte, de follaje verde grisáceo y figura muy ornamental.",
+        "descripcion": "Llega hasta unos 20 metros de altura. Sus hojas se disponen en ramillas irregulares y desprenden un olor penetrante. La corteza es fibrosa y rojiza; las ramas son horizontales.",
+        "floresYFrutos": "Los conos poseen entre seis y ocho escamas leñosas, miden aproximadamente 3 cm de diámetro, son marrón rojizo y contienen numerosas semillas.",
+        "historia": "Fue obsequiado al Colegio por el exalumno y rector Ernesto Maxit, luego de la remodelación de 1960.",
+        "curiosidad": "Según la leyenda griega, su nombre genérico alude al joven Kuparisco, transformado en ciprés por el dios Apolo."
+    },
+    {
+        "id": "caranday",
+        "nombre": "Caranday",
+        "cientifico": "Trithrinax campestris",
+        "tipo": "Nativa",
+        "origen": "Uruguay y Argentina",
+        "altura": "Crecimiento lento",
+        "follaje": "Perenne",
+        "floracion": "Otoño",
+        "familia": "Arecáceas",
+        "fotos": [
+            "assets/img/arboles/caranday-1.webp"
+        ],
+        "informacionPrincipal": "Palmera nativa de Uruguay y Argentina, de crecimiento lento y aspecto inconfundible por la “pollera” que cubre su tronco.",
+        "descripcion": "El tronco permanece cubierto por restos foliares muy espinosos. Sus hojas son palmadas, grandes, verde grisáceas y con extremos puntiagudos. Las vainas foliares tienen espinas de entre 10 y 15 cm.",
+        "floresYFrutos": "Florece en otoño. Sus inflorescencias son cortas, robustas y vistosas, con pequeñas flores hermafroditas blanquecinas o crema. Los frutos son redondos, blancos y de unos 2 cm de diámetro."
+    },
+    {
+        "id": "tuya",
+        "nombre": "Tuya",
+        "cientifico": "Thuja occidentalis",
+        "tipo": "Exótica",
+        "origen": "Canadá y este de Estados Unidos",
+        "altura": "Porte mediano",
+        "follaje": "Perenne",
+        "floracion": "Conos alargados",
+        "familia": "Cupresáceas",
+        "fotos": [
+            "assets/img/arboles/tuya-1.webp",
+            "assets/img/arboles/tuya-2.webp"
+        ],
+        "informacionPrincipal": "Conífera exótica originaria de Canadá y del este de Estados Unidos, utilizada principalmente en parques y jardines.",
+        "descripcion": "Es un árbol de talla mediana, copa amplia y globosa, cuyas ramas se disponen en un solo plano. Las hojas adultas son escamiformes, ordenadas en cuatro filas, verdes y brillantes en la cara superior y algo amarillentas en el envés. La corteza es castaño rojiza, delgada y hendida longitudinalmente.",
+        "floresYFrutos": "Las flores se disponen en inflorescencias separadas por sexo. Los conos son alargados, de 8 a 20 mm, con ocho a doce escamas comprimidas. Las semillas, aladas, son muy apetecidas por las aves.",
+        "usos": "Su madera se emplea en construcciones navales e hidráulicas; también posee importancia ornamental."
+    },
+    {
+        "id": "tilo",
+        "nombre": "Tilo",
+        "cientifico": "Tilia × moltkei",
+        "tipo": "Exótica",
+        "origen": "Híbrido europeo obtenido en 1880",
+        "altura": "15–18 m",
+        "follaje": "Caduco",
+        "floracion": "Flores blanco-amarillentas",
+        "familia": "Malváceas, subfamilia Tilioideae",
+        "fotos": [
+            "assets/img/arboles/tilo-1.webp",
+            "assets/img/arboles/tilo-2.webp"
+        ],
+        "informacionPrincipal": "Árbol exótico de origen europeo, híbrido obtenido en 1880, valorado por su copa amplia, su sombra y sus flores perfumadas.",
+        "descripcion": "Alcanza entre 15 y 18 metros. Tiene follaje tupido y caduco, tronco grisáceo y hojas simples, alternas, ovales o redondeadas, con bordes aserrados. La cara superior es verde oscuro y la inferior verde grisácea, con pubescencia densa.",
+        "floresYFrutos": "Las flores blanco amarillentas y fuertemente perfumadas se agrupan en cimas sobre una bráctea foliácea. Los frutos son cápsulas indehiscentes, redondeadas, duras y con costillas; sus semillas rara vez son fértiles.",
+        "usos": "Se utiliza para parquización y arbolado urbano. Con la esencia de sus flores se prepara tradicionalmente una infusión.",
+        "historia": "Fue donado por el ex vicerrector profesor Hugo Petrone, en homenaje a los exalumnos egresados de la Universidad Nacional de La Plata, en 1986."
+    },
+    {
+        "id": "acacia",
+        "nombre": "Acacia",
+        "cientifico": "Acacia visco",
+        "tipo": "Nativa",
+        "origen": "Noroeste argentino",
+        "altura": "Más de 12 m",
+        "follaje": "Semipersistente",
+        "floracion": "Flores amarillas",
+        "familia": "Mimosáceas",
+        "fotos": [
+            "assets/img/arboles/acacia-1.webp",
+            "assets/img/arboles/acacia-2.webp"
+        ],
+        "informacionPrincipal": "Especie nativa originaria del noroeste argentino, asilvestrada en Entre Ríos por dispersión de semillas.",
+        "descripcion": "Árbol de gran porte, superior a 12 metros, con tronco inclinado, hendido y grisáceo, marcado por fisuras retorcidas. Su copa es amplia, hemisférica y poco uniforme. Las hojas son semipersistentes, bipinnadas, con numerosos foliolos y sin espinas.",
+        "floresYFrutos": "El fruto es una legumbre indehiscente, chata, coriácea y castaña. Contiene alrededor de ocho semillas oscuras, esféricas y comprimidas.",
+        "observacion": "El clima húmedo de Entre Ríos favorece el ataque de diversos parásitos sobre esta especie."
+    },
+    {
+        "id": "dammara-australiana",
+        "nombre": "Dammara australiana",
+        "cientifico": "Agathis robusta",
+        "tipo": "Exótica",
+        "origen": "Australia",
+        "altura": "Hasta 45 m en regiones costeras",
+        "follaje": "Perenne",
+        "floracion": "Conífera",
+        "familia": "Araucariáceas",
+        "fotos": [
+            "assets/img/arboles/dammara-australiana-1.webp",
+            "assets/img/arboles/dammara-australiana-2.webp"
+        ],
+        "informacionPrincipal": "Conífera exótica originaria de Australia, de gran porte, copa estrecha y erguida.",
+        "descripcion": "Sus hojas son opuestas y angostamente elípticas. En regiones costeras puede alcanzar unos 45 metros de altura.",
+        "floresYFrutos": "Los amentos masculinos miden entre 5 y 10 cm. Los conos femeninos son ovoides o subglobosos, de 10 a 12 cm de ancho, formados por numerosas brácteas espiraladas. Las semillas presentan alas laterales.",
+        "usos": "Es ornamental. Su madera sirve para construcciones navales y se tiñe y barniza con facilidad.",
+        "historia": "Fue donada por Agustín P. Justo en 1945."
+    },
+    {
+        "id": "roble-de-eslovenia",
+        "nombre": "Roble de Eslovenia",
+        "cientifico": "Quercus robur",
+        "tipo": "Exótica",
+        "origen": "Europa",
+        "altura": "Hasta 45 m",
+        "follaje": "Caduco",
+        "floracion": "Flores masculinas y femeninas",
+        "familia": "Fagáceas",
+        "fotos": [
+            "assets/img/arboles/roble-de-eslovenia-1.webp"
+        ],
+        "informacionPrincipal": "Roble europeo de gran porte, copa majestuosa y notable valor forestal y ornamental.",
+        "descripcion": "Puede alcanzar unos 45 metros. El tronco es grueso y ramificado, con corteza gris pálida, gruesa y muy agrietada. Sus hojas son caducas, alternas, simples y lobuladas; se tornan marrones en otoño.",
+        "floresYFrutos": "Las flores masculinas se agrupan en amentos y las femeninas aparecen solitarias o de a dos sobre un pedúnculo largo. El fruto es una bellota oblonga de 2 a 4 cm, rodeada en la base por una cúpula de escamas.",
+        "usos": "Posee gran valor forestal por su madera y también se cultiva como ornamental.",
+        "historia": "Fue plantado por estudiantes de quinto año el 28 de septiembre de 1942."
+    },
+    {
+        "id": "alcanforero",
+        "nombre": "Alcanforero",
+        "cientifico": "Cinnamomum camphora",
+        "tipo": "Exótica",
+        "origen": "Extremo Oriente",
+        "altura": "Hasta 20 m",
+        "follaje": "Perenne",
+        "floracion": "Flores amarillentas",
+        "familia": "Lauráceas",
+        "fotos": [
+            "assets/img/arboles/alcanforero-1.webp"
+        ],
+        "informacionPrincipal": "Árbol exótico originario del Extremo Oriente, de rápido crecimiento, copa amplia y hojas de aroma intenso.",
+        "descripcion": "Puede alcanzar hasta 20 metros. Sus hojas son coriáceas, persistentes y más claras en el envés; al frotarlas desprenden un fuerte aroma.",
+        "floresYFrutos": "Las flores son pequeñas y amarillentas, dispuestas en panojas axilares más cortas que las hojas. El fruto es una baya negro violácea de aproximadamente 1 cm de diámetro.",
+        "historia": "Fue obsequiado por el emperador Pedro II del Brasil al general Urquiza. El jardín conserva además un retoño del mismo ejemplar.",
+        "curiosidad": "Existe la creencia de que en los árboles antiguos habitan deidades que protegen la seguridad, la salud y la felicidad."
+    },
+    {
+        "id": "palo-borracho",
+        "nombre": "Palo borracho",
+        "cientifico": "Chorisia insignis",
+        "tipo": "Nativa",
+        "origen": "Sudamérica",
+        "altura": "Gran porte",
+        "follaje": "Semipersistente",
+        "floracion": "Flores grandes blanco-cremosas",
+        "familia": "Bombacáceas",
+        "fotos": [
+            "assets/img/arboles/palo-borracho-1.webp",
+            "assets/img/arboles/palo-borracho-2.webp",
+            "assets/img/arboles/palo-borracho-3.webp"
+        ],
+        "informacionPrincipal": "Especie nativa resistente a la sequía, de rápido crecimiento y característica corteza cubierta de aguijones.",
+        "descripcion": "Es poco exigente respecto del suelo y se adapta a climas cálidos, aunque solo tolera heladas ligeras. Sus hojas son alternas y palmaticompuestas, generalmente de cinco foliolos. La madera es blanda y liviana.",
+        "floresYFrutos": "Las flores son hermafroditas, solitarias, grandes, blanco cremosas y de cinco pétalos. Los frutos son cápsulas oblongas, verdes hasta casi la madurez, con numerosas semillas oscuras y casi esféricas que contienen aceite.",
+        "usos": "En la medicina popular sus flores han sido utilizadas para aliviar jaquecas.",
+        "historia": "Fue obsequiado al Colegio por Martín Doello Jurado el 28 de julio de 1942."
+    },
+    {
+        "id": "lluvia-de-oro",
+        "nombre": "Lluvia de oro",
+        "cientifico": "Cassia fistula",
+        "tipo": "Exótica",
+        "origen": "Asia",
+        "altura": "Hasta 15 m",
+        "follaje": "Semiperenne",
+        "floracion": "Fines de mayo a julio",
+        "familia": "Fabáceas",
+        "fotos": [
+            "assets/img/arboles/lluvia-de-oro-1.webp",
+            "assets/img/arboles/lluvia-de-oro-2.webp"
+        ],
+        "informacionPrincipal": "Árbol exótico originario de Asia, reconocido por sus largos racimos de flores amarillas y perfumadas.",
+        "descripcion": "Alcanza unos 15 metros y posee follaje semiperenne. Sus hojas miden entre 30 y 40 cm y presentan de tres a siete pares de foliolos. Suelen caer en abril antes de la floración.",
+        "floresYFrutos": "Florece desde fines de mayo hasta julio. Los racimos pueden alcanzar unos 40 cm y reúnen flores amarillas de cinco pétalos. Los frutos son vainas leñosas, delgadas y cilíndricas, de hasta 60 cm; nacen verdes, maduran a negro y permanecen en el árbol hasta el año siguiente.",
+        "historia": "Fue traído desde Estados Unidos y obsequiado al Colegio por el exrector y profesor Miguel Ángel Gregori, en 1973."
+    },
+    {
+        "id": "ceibo",
+        "nombre": "Ceibo",
+        "cientifico": "Erythrina crista-galli",
+        "tipo": "Nativa",
+        "origen": "Sudamérica; noreste y centro-este argentino",
+        "altura": "5–10 m, excepcionalmente hasta 20 m",
+        "follaje": "Caduco",
+        "floracion": "Octubre a abril",
+        "familia": "Fabáceas",
+        "fotos": [
+            "assets/img/arboles/ceibo-1.webp",
+            "assets/img/arboles/ceibo-2.webp"
+        ],
+        "informacionPrincipal": "Especie nativa de Sudamérica, presente en el noreste y centro-este argentino, reconocida por sus flores rojas.",
+        "descripcion": "Árbol de porte mediano, de 5 a 10 metros y excepcionalmente hasta 20. El tronco es leñoso, tortuoso e irregular, con corteza pardo grisácea y profundos surcos. Las ramas poseen espinas. Sus hojas son compuestas, trifolioladas, alternas y de intenso color verde; el follaje es caduco.",
+        "floresYFrutos": "Las flores rojas se disponen en inflorescencias arracimadas y aparecen de octubre a abril. Los frutos son legumbres semileñosas con varias semillas, que se liberan durante el verano y el otoño.",
+        "usos": "Sus flores se han utilizado para teñir telas y, por su vistosidad, la especie tiene un importante valor ornamental.",
+        "curiosidad": "La flor del ceibo fue declarada Flor Nacional Argentina por decreto del 22 de diciembre de 1942."
+    }
+]

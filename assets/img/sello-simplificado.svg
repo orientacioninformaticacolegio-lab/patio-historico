@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Sello simplificado del Colegio del Uruguay">
+<circle cx="128" cy="128" r="121" fill="#f5f1e8" stroke="#0e7895" stroke-width="8"/><circle cx="128" cy="128" r="103" fill="#c92d2b" stroke="#f5f1e8" stroke-width="5"/><circle cx="128" cy="128" r="94" fill="none" stroke="#0e7895" stroke-width="3"/>
+<text x="128" y="58" text-anchor="middle" font-family="Georgia,serif" font-size="25" font-weight="700" fill="#1b1b1b">1849</text>
+<path d="M69 96c21-9 38-5 59 7v74c-20-11-39-15-59-6zM187 96c-21-9-38-5-59 7v74c20-11 39-15 59-6z" fill="#fff" stroke="#1b1b1b" stroke-width="4"/>
+<path d="M128 103v74M78 112c17-4 31 0 43 6M178 112c-17-4-31 0-43 6M78 130c17-4 31 0 43 6M178 130c-17-4-31 0-43 6" fill="none" stroke="#777" stroke-width="2"/>
+<text x="102" y="153" text-anchor="middle" font-family="Georgia,serif" font-size="12" font-weight="700">IN HOC</text><text x="154" y="153" text-anchor="middle" font-family="Georgia,serif" font-size="12" font-weight="700">SIGNO</text>
+<path d="M93 190h70l-14 17h-42z" fill="#e9f5f8" stroke="#1b1b1b" stroke-width="3"/><path d="M116 207l-12 25 18-12 6 18 6-18 18 12-12-25z" fill="#60b8d4" stroke="#1b1b1b" stroke-width="3"/>
+</svg>
