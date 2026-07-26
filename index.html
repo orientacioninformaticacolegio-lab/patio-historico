@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#1d5b45">
+    <meta
+        name="description"
+        content="Recorrido botánico e histórico por los árboles del patio del Colegio del Uruguay."
+    >
+    <title>Patio Histórico · Colegio del Uruguay</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="assets/img/sello-simplificado.svg">
+</head>
+<body>
+    <header class="site-header">
+        <div class="wrap header-inner">
+            <a class="brand" href="index.html">
+                <img src="assets/img/sello-simplificado.svg" alt="">
+                <span>
+                    <strong>Patio Histórico</strong>
+                    <small>Colegio del Uruguay · 1849</small>
+                </span>
+            </a>
+
+            <nav class="nav" aria-label="Navegación principal">
+                <a href="#especies">Especies</a>
+                <a href="#historia">Historia</a>
+                <a href="#patio">El patio</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="wrap hero-grid">
+                <div>
+                    <span class="eyebrow">Patrimonio natural · Patrimonio educativo</span>
+                    <h1>Patio<br>Histórico</h1>
+                    <p>
+                        Un recorrido por los árboles nativos y exóticos que habitan el corazón
+                        del Colegio del Uruguay y conservan historias de docentes, estudiantes
+                        y protagonistas del pasado argentino.
+                    </p>
+                    <div class="hero-actions">
+                        <a class="btn btn-primary" href="#especies">Explorar especies</a>
+                        <a class="btn btn-ghost" href="#historia">Conocer su historia</a>
+                    </div>
+                </div>
+
+                <img
+                    class="hero-mark"
+                    src="assets/img/logo-colegio.webp"
+                    alt="Escudo del Colegio Superior del Uruguay Justo José de Urquiza"
+                >
+            </div>
+        </section>
+
+        <section id="especies" class="section">
+            <div class="wrap">
+                <div class="section-head">
+                    <div>
+                        <span class="eyebrow eyebrow-accent">Galería del patio</span>
+                        <h2>Árboles que cuentan historias</h2>
+                    </div>
+                    <p class="section-lead">
+                        Especies nativas y exóticas forman parte del paisaje cotidiano y de la
+                        memoria del Colegio del Uruguay.
+                    </p>
+                </div>
+
+                <div class="filters" aria-label="Filtros de especies">
+                    <button class="filter active" type="button" data-filter="Todos">Todos</button>
+                    <button class="filter" type="button" data-filter="Nativa">Nativos</button>
+                    <button class="filter" type="button" data-filter="Exótica">Exóticos</button>
+                    <button class="filter" type="button" data-filter="historia">
+                        Con historia documentada
+                    </button>
+                </div>
+
+                <div id="grid" class="grid" aria-live="polite"></div>
+            </div>
+        </section>
+
+        <section id="historia" class="section story">
+            <div class="wrap story-grid">
+                <div>
+                    <span class="eyebrow eyebrow-accent">El patio como archivo vivo</span>
+                    <p class="story-quote">
+                        “Cada árbol es una presencia del paisaje y, a la vez, una página de la
+                        historia del Colegio.”
+                    </p>
+                </div>
+
+                <div class="timeline">
+                    <div class="time-item">
+                        <strong>1942</strong>
+                        <span>
+                            Estudiantes plantan el Roble de Eslovenia y Martín Doello Jurado
+                            obsequia el Palo Borracho.
+                        </span>
+                    </div>
+                    <div class="time-item">
+                        <strong>1943</strong>
+                        <span>
+                            El Pino Paraná llega al patio como obsequio en el Día del Árbol.
+                        </span>
+                    </div>
+                    <div class="time-item">
+                        <strong>1945</strong>
+                        <span>Agustín P. Justo dona la Dammara Australiana.</span>
+                    </div>
+                    <div class="time-item">
+                        <strong>1960</strong>
+                        <span>
+                            Ernesto Maxit obsequia el Ciprés luego de la remodelación.
+                        </span>
+                    </div>
+                    <div class="time-item">
+                        <strong>1973</strong>
+                        <span>
+                            Miguel Ángel Gregori incorpora la Lluvia de Oro, traída desde
+                            Estados Unidos.
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="patio" class="section">
+            <div class="wrap">
+                <div class="section-head">
+                    <div>
+                        <span class="eyebrow eyebrow-accent">Patrimonio compartido</span>
+                        <h2>El corazón verde del Colegio</h2>
+                    </div>
+                    <p class="section-lead">
+                        El patio reúne ejemplares vinculados con generaciones de estudiantes,
+                        docentes, exrectores y figuras de la historia. Sus especies conservan una
+                        memoria que continúa creciendo junto con la comunidad educativa.
+                    </p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="wrap footer-grid">
+            <div class="footer-brand">
+                <img src="assets/img/sello-simplificado.svg" alt="">
+                <div>
+                    <strong>Patio Histórico</strong>
+                    <div class="footer-note">
+                        Colegio Superior del Uruguay “Justo José de Urquiza” · Concepción del
+                        Uruguay, Entre Ríos
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>

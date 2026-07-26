@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Generador de códigos QR · Patio Histórico</title>
+    <link rel="icon" href="assets/img/sello-simplificado.svg">
+    <link rel="stylesheet" href="qr.css">
+</head>
+<body>
+    <main class="qr-tool">
+        <section class="qr-controls" aria-labelledby="qr-title">
+            <div>
+                <p class="eyebrow">Herramienta de administración</p>
+                <h1 id="qr-title">Códigos QR de las especies</h1>
+                <p>
+                    La dirección base se obtiene automáticamente del lugar donde está publicado el proyecto.
+                    También puede modificarse manualmente antes de imprimir.
+                </p>
+            </div>
+
+            <form id="qr-form" class="url-form">
+                <label for="base-url">Dirección base del proyecto</label>
+                <div class="url-row">
+                    <input id="base-url" name="base-url" type="url" spellcheck="false" required>
+                    <button type="submit">Actualizar</button>
+                    <button type="button" id="print-button" class="secondary">Imprimir</button>
+                </div>
+                <small id="url-help"></small>
+            </form>
+        </section>
+
+        <section id="qr-grid" class="qr-grid" aria-live="polite"></section>
+    </main>
+
+    <script src="qr.js"></script>
+</body>
+</html>
